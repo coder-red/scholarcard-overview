@@ -107,7 +107,3 @@ Scoring lives in `src/lib/scorer.ts` and `src/lib/agents/eligibility.ts`; `npm r
 - Free-tier hosting means the first request after idle can take ~1 min (Render spin-up). Details and the keep-alive approach are in `DEPLOY.md`.
 - Search-engine-based discovery is blocked from Render's IPs (DuckDuckGo), so discovery runs only in the GitHub Actions crawl.
 
-## Author
-
-**Mohammed Ahmed Babatunde** — AI engineer, Lagos.
-[github.com/coder-red](https://github.com/coder-red) · [linkedin.com/in/coder-red](https://linkedin.com/in/coder-red) · mohammed.ds.ml01@gmail.com
